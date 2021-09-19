@@ -10,4 +10,4 @@ There are 8 Courses in this Professional Certificate:
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
 
-This is my study notes. (since Aug 01, 2021)
+These are my study notes. (since Aug 01, 2021)
